@@ -1,3 +1,3 @@
 # jenkins_auto
 
-jenkinst_test
+jenkinst_test 1
